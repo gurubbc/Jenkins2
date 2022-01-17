@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> Kanna1</h1>
+<h1> Kanna2</h1>
 </body>
 </html>
